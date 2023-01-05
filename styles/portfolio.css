@@ -190,5 +190,42 @@ main{
 .resume-button{
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 130px;
 }
+.contact
+{
+    display:flex;
+    gap:100px;
+    justify-content: center;
+    background-color:#FFF8F3;
+    padding: 130px 0px 130px 0px;
+    text-align: left;
+    margin: 0 200px;
+    border-radius: 10px;
+    
+
+}
+.contact-title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: left;
+
+
+}
+.contact-dis{
+
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+    
+   
+}
+.contact input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+
 
